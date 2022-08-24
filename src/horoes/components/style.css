@@ -1,0 +1,16 @@
+.sizeTitle{
+ font-size: 70%;
+ clear: both;
+ display: inline-block;
+}
+.changheSize{
+ font-size: 70%;
+ clear: both;
+ display: inline-block;
+}
+.miBox{
+    float:right;
+}
+.sizeImage{
+    max-width: 4em;
+}
